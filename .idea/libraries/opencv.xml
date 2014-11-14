@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="opencv">
+    <CLASSES>
+      <root url="file:///usr/local/opencv" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///usr/local/opencv/modules/java/android_test/src" />
+      <root url="file:///usr/local/opencv/modules/java/test/.build/src" />
+      <root url="file:///usr/local/opencv/modules/java/test/src" />
+      <root url="file:///usr/local/opencv/platforms/android/service/engine/src" />
+      <root url="file:///usr/local/opencv/platforms/android/service/engine_test/src" />
+      <root url="file:///usr/local/opencv/samples/android/15-puzzle/src" />
+      <root url="file:///usr/local/opencv/samples/android/camera-calibration/src" />
+      <root url="file:///usr/local/opencv/samples/android/color-blob-detection/src" />
+      <root url="file:///usr/local/opencv/samples/android/face-detection/src" />
+      <root url="file:///usr/local/opencv/samples/android/image-manipulations/src" />
+      <root url="file:///usr/local/opencv/samples/android/native-activity/src" />
+      <root url="file:///usr/local/opencv/samples/android/tutorial-1-camerapreview/src" />
+      <root url="file:///usr/local/opencv/samples/android/tutorial-2-mixedprocessing/src" />
+      <root url="file:///usr/local/opencv/samples/android/tutorial-3-cameracontrol/src" />
+      <root url="file:///usr/local/opencv/samples/android/tutorial-4-cuda/src" />
+      <root url="file:///usr/local/opencv/samples/java/ant/src" />
+      <root url="file:///usr/local/opencv/samples/java/eclipse/HelloCV/src" />
+      <root url="file:///usr/local/opencv/samples/java/sbt/src/main/java" />
+      <root url="file:///usr/local/opencv/src" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="opencv-249">
+    <archive path="/Users/Fernando/Downloads/OpenCV-2.4.9-android-sdk/sdk/RedBloodCellAbnormalitiesFinder/lib/opencv-2491.jar" />
+  </library>
+  <library name="opencv">
+    <archive path="/usr/local/opencv" />
+  </library>
+  <library name="bin" />
+  <library name="opencv-249">
+    <archive path="/usr/local/Cellar/opencv/2.4.9/share/OpenCV/java/opencv-249.jar" />
+  </library>
+  <library name="src" />
+  <library name="x64" />
+  <library name="opencv-2491">
+    <archive path="/Users/Fernando/Documents/opencv/build/java/opencv-249.jar" />
+  </library>
+</eclipse-userlibraries>
+

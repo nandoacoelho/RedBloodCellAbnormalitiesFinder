@@ -7,9 +7,9 @@ import javax.swing.*;
 
 public class WindowDisplayer extends JFrame {
 
-    public WindowDisplayer(String imgStr, Mat m){
+    public WindowDisplayer(String imgStr, Mat m,String name){
         Highgui.imwrite(imgStr,m);
-        JFrame frame = new JFrame("Image");
+        JFrame frame = new JFrame(name);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(true);
         frame.setLocationRelativeTo(null);

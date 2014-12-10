@@ -6,10 +6,11 @@ import org.opencv.highgui.Highgui;
 import javax.swing.*;
 
 public class WindowDisplayer extends JFrame {
+    private JFrame frame;
 
     public WindowDisplayer(String imgStr, Mat m,String name){
         Highgui.imwrite(imgStr,m);
-        JFrame frame = new JFrame(name);
+        frame = new JFrame(name);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(true);
         frame.setLocationRelativeTo(null);

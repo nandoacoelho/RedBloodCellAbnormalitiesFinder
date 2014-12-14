@@ -2,6 +2,8 @@
   <dictionary name="Fernando">
     <words>
       <w>grayscale</w>
+      <w>keypoints</w>
+      <w>pointsf</w>
     </words>
   </dictionary>
 </component>
